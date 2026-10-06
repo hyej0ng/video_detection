@@ -1,0 +1,5 @@
+# Python 3.11 recommended
+# Install a CUDA-compatible PyTorch build first when GPU inference is required.
+ultralytics-opencv-headless==8.4.95
+opencv-python-headless>=4.10,<6
+numpy>=1.26,<3
